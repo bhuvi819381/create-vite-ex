@@ -1,10 +1,11 @@
 {
-  "name": "create-vits",
+  "name": "create-vite-ex",
   "version": "0.1.1",
   "description": "Quick setup for Vite + React + TypeScript + Tailwind CSS projects",
-  "main": "bin/install.sh",
+  "main": "bin/create-vite-ex.js",
+  "type": "module",
   "bin": {
-    "create-vits": "./bin/install.sh"
+    "create-vite-ex": "./bin/create-vite-ex.js"
   },
   "scripts": {
     "test": "echo \"No tests yet\" && exit 0"
@@ -31,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/bhuvi819381/create-vite-ex/issues"
   },
-  "homepage": "https://github.com/yourusername/create-vits#readme",
+  "homepage": "https://github.com/yourusername/create-vite-ex#readme",
   "engines": {
     "node": ">=16.0.0"
   }

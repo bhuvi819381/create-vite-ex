@@ -1,12 +1,21 @@
 # create-vite-ex
 
+Quick setup for Vite + React + TypeScript + Tailwind CSS projects with path aliases and Prettier.
+
+## Usage
+
 ```bash
-# Recommended
-npm create vite-ex@latest my-app
+# Using npx (recommended)
+npx create-vite-ex [project_name]
+```
 
-# Or
-npx create-vite-ex my-app
+```bash
+# Or install globally
+npm install -g create-vite-ex
+create-vite-ex [project_name]
+```
 
-# Or global
-npm i -g create-vite-ex
-create-vite-ex my-app
+```bash
+# Using pnpx
+pnpx create-vite-ex [project_name]
+```
