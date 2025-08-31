@@ -1,0 +1,38 @@
+{
+  "name": "create-vits",
+  "version": "0.1.1",
+  "description": "Quick setup for Vite + React + TypeScript + Tailwind CSS projects",
+  "main": "bin/install.sh",
+  "bin": {
+    "create-vits": "./bin/install.sh"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "keywords": [
+    "vite",
+    "react",
+    "typescript",
+    "tailwind",
+    "starter",
+    "template",
+    "scaffold"
+  ],
+  "author": "Bhuvnesh Upadhyay <bhuvi819381@protonmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/create-vite-ex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhuvi819381/create-vite-ex/issues"
+  },
+  "homepage": "https://github.com/yourusername/create-vits#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
