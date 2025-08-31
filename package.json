@@ -1,6 +1,6 @@
 {
   "name": "create-vite-ex",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Quick setup for Vite + React + TypeScript + Tailwind CSS projects",
   "main": "bin/create-vite-ex.js",
   "type": "module",
