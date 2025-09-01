@@ -19,8 +19,6 @@ create_directories() {
     print_status "Creating directory structure..."
 
     mkdir -p src/components
-    mkdir -p src/utils
-    mkdir -p src/hooks
     mkdir -p src/types
 
     print_success "Directory structure created"
